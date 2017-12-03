@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jkhsghsdf
+=======
+jhgvjahgaklglk
+>>>>>>> commit 7 add commit new4 master
